@@ -1394,15 +1394,12 @@ swiper-container {
   padding-bottom: 50px;
 }
 
-swiper-slide {
-  background-position: center;
-  background-size: cover;
-  width: 642px;
-  height: 630px;
+.icon-plus {
+  font-size: 1.5rem;
+  color: #fff;
+  
+  
 }
 
-swiper-slide img {
-  display: block;
-  width: 100%;
-}
+
 
